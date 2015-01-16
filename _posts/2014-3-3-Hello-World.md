@@ -4,7 +4,7 @@ title: "You're up and running!"
 published: true
 ---
 
-:poo:
+:poop:
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
